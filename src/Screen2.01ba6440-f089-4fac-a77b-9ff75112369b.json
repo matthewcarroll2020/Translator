@@ -1,4 +1,5 @@
 {
+    "id": "01ba6440-f089-4fac-a77b-9ff75112369b",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -267,7 +268,6 @@
             "name": "Group1"
         }
     ],
-    "id": "01ba6440-f089-4fac-a77b-9ff75112369b",
     "thunkableVersion": 405,
     "name": "Screen2"
 }
